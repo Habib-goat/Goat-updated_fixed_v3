@@ -66,7 +66,7 @@ module.exports = {
 
       return `
 ╔═════════════════════╗
-║        ⚡ RS. BOT SYSTEM ⚡
+║        ⚡ HR. BOT SYSTEM ⚡
 ╠═════════════════════╣
 ║ ⏳ Uptime   : ${d}d ${h}h ${m}m ${s}s
 ║ 📅 Date     : ${date}
@@ -81,7 +81,7 @@ module.exports = {
 ║
 ║ ⚙️ PID      : ${process.pid}
 ║ 🛠 Node.js  : ${process.version}
-║ 🧘‍♂️ Owner   : EWR RIFAT
+║ 🧘‍♂️ Owner   : HR HABIB 
 ╠═════════════════════╣
 ║        ✅ SYSTEM RUNNING
 ╚═════════════════════╝
