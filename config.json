@@ -33,13 +33,13 @@
   "language": "en",
   "notesLanguage": "change to your language with ISO 639-1 code, available languages: vi (Vietnamese), en (English)",
   "adminBot": [
-    "61557500431580",
-    "61557235884478",
-    "61576301548029"
+    "100093182723125",
+    "",
+    ""
   ],
   "vipuser": [
-    "61576301548029",
-    "61557500431580"
+    "100093182723125",
+    ""
   ],
   "reactBy": {
     "delete": [
@@ -49,7 +49,7 @@
       "😾"
     ]
   },
-  "nickNameBot": "۵ཐི༏ཋྀ⏤͟͟͞͞Your ♡ᜊXan♡-ᥫ᭡",
+  "nickNameBot": "♡┋Habibᥫ᭡",
   "prefix": "*",
   "database": {
     "type": "sqlite",
